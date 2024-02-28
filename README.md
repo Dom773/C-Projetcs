@@ -1,14 +1,6 @@
 # C-_projects
-A Hotel Management System simulation that simulates a multi-day business in the hotel. Simulates the checkins and checkouts, guests, floors, rooms, drinks, and billing for everything.
+A C++ project on Hotel Management System using File Handling to store the records of the rooms in a hotel.
 
-room
-cpp
-simulation
-guest
-floor
-drink
-occupancy
-hotel-management
+
+project
 hotel-management-system
-cold-drinks
-room-number
